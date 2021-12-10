@@ -1,0 +1,1360 @@
+IL
+Addison 22
+Algonquin 2
+Alsip 8
+Antioch 29
+Arcola 1
+Arlington Heights 14
+Atlanta 1
+Aurora 5
+Barrington 39
+Bartlett 46
+Batavia 1
+Beach Park 10
+Bellwood 7
+Belvidere 4
+Bensenville 14
+Berkeley 8
+Berwyn 5
+Bloomingdale 10
+Bloomington 3
+Blue Island 1
+Bolingbrook 16
+Bourbonnais 1
+Braceville 1
+Braidwood 1
+Bridgeview 12
+Buffalo Grove 29
+Burr Ridge 6
+Caledonia 1
+Calumet City 10
+Carol Stream 47
+Cary 1
+Casey 2
+Champaign 2
+Channahon 6
+Chicago Ridge 3
+Chicago 811
+Cicero 1
+Clarendon Hills 11
+Country Club Hills 1
+Countryside 2
+Crestwood 1
+Crystal Lake 2
+Darien 19
+Deer Creek 1
+Deerfield 14
+Dekalb 4
+Des Plaines 49
+Dolton 6
+Downers Grove 67
+Dundee 2
+Dwight 1
+East Hazel Crest 1
+Effingham 3
+Elburn 2
+Eldorado 1
+Elgin 158
+Elk Grove Village 16
+Elmhurst 99
+Elmwood Park 1
+Elwood 1
+Evanston 1
+Evergreen Park 3
+Forest Park 18
+Fox Lake 9
+Fox River Grove 1
+Franklin Park 5
+Geneva 2
+Genoa 1
+Glen Ellyn 50
+Glencoe 1
+Glendale Heights 12
+Glenview 3
+Glenwood 1
+Grayslake 60
+Grayville 1
+Great Lakes 2
+Gurnee 75
+Hainesville 5
+Hampshire 3
+Hanover Park 37
+Harvey 1
+Harwood Heights 1
+Hawthorn Woods 2
+Hazel Crest 12
+Hickory Hills 1
+Highland Park 21
+Highwood 1
+Hillside 10
+Hinsdale 28
+Hoffman Estates 14
+Homer Glen 3
+Homewood 2
+Hudson 1
+Huntley 5
+Ingleside 24
+Island Lake 4
+Itasca 13
+Johnsburg 1
+Joliet 20
+Justice 12
+Kenilworth 1
+Kildeer 3
+Kirkland 2
+La Grange 34
+Lacon 1
+Lake Bluff 5
+Lake Forest 49
+Lake in the Hills 1
+Lake Villa 25
+Lake Zurich 61
+Lakemoor 3
+Lansing 20
+Le Roy 2
+Lemont 7
+Leyden 1
+Libertyville 71
+Lincoln 2
+Lincolnshire 14
+Lincolnwood 3
+Lindenhurst 5
+Lisle 44
+Lockport 3
+Lombard 82
+Long Grove 16
+Lostant 1
+Loves Park 1
+Lyons 3
+Malta 1
+Manteno 1
+Maple Park 2
+Marengo 2
+Markham 3
+Matteson 5
+Maywood 14
+Mchenry 3
+McHenry 3
+Melrose Park 11
+Mendota 1
+Metamora 2
+Midlothian 1
+Minier 1
+Minooka 3
+Mokena 5
+Monee 2
+Morris 2
+Morton Grove 3
+Mount Prospect 2
+Mundelein 52
+Naperville 21
+Neoga 2
+New Lenox 4
+Newton 1
+Niles 33
+Norridge 1
+North Aurora 3
+North Chicago 33
+Northbrook 19
+Northlake 1
+Oak Brook 56
+Oak Forest 2
+Oak Lawn 1
+Oak Park 11
+Oakbrook Terrace 3
+Ogden 1
+Oglesby 1
+Old Mill Creek 1
+Orland Park 1
+Ottawa 2
+Palatine 5
+Palos Heights 2
+Palos Park 1
+Park City 1
+Peru 1
+Plainfield 13
+Pontiac 1
+Posen 6
+Proviso 1
+Richmond 2
+Ringwood 1
+Riverdale 13
+Riverside 1
+Riverwoods 2
+Robbins 2
+Rochelle 4
+Rockford 13
+Rolling Meadows 13
+Romeoville 4
+Roscoe 5
+Roselle 21
+Round Lake 31
+Round Lake Beach 6
+Round Lake Heights 1
+Saint Charles 1
+Sandwich 1
+Schaumburg 19
+Schiller Park 15
+Seneca 1
+Shorewood 5
+Skokie 18
+South Beloit 1
+South Elgin 2
+South Holland 18
+Spring Grove 4
+Streamwood 6
+Streator 1
+Sugar Grove 1
+Thornton 7
+Tinley Park 20
+Urbana 1
+Vernon Hills 28
+Villa Park 57
+Volo 4
+Wadsworth 33
+Warrenville 27
+Washington 1
+Wauconda 22
+Waukegan 74
+West Chicago 55
+Westchester 9
+Westmont 8
+Wheaton 57
+Willow Springs 2
+Willowbrook 49
+Wilmette 6
+Wilmington 2
+Winfield 14
+Winnetka 6
+Winthrop Harbor 2
+Wood Dale 6
+Woodridge 36
+Woodstock 2
+Worth 4
+Yorkville 1
+Zion 32
+IL 3692
+IN
+Albion 1
+Anderson 8
+Angola 3
+Attica 2
+Aurora 1
+Austin 1
+Avon 8
+Batesville 1
+Beech Grove 6
+Bloomington 3
+Boggstown 1
+Brazil 1
+Brookston 1
+Brookville 1
+Brownsburg 9
+Cambridge City 7
+Camby 2
+Carmel 5
+Centerville 2
+Chalmers 1
+Chandler 1
+Chesterton 7
+Churubusco 1
+Clarksville 5
+Clayton 3
+Cloverdale 2
+Columbia City 2
+Columbus 23
+Connersville 2
+Corydon 1
+Covington 1
+Crawfordsville 2
+Crown Point 3
+Dale 2
+Daleville 2
+Danville 2
+Decatur 1
+Demotte 1
+Dyer 1
+Economy 2
+Edinburgh 7
+Elberfeld 1
+Elizabethtown 1
+Elkhart 1
+Evansville 9
+Fair Oaks 1
+Ferdinand 2
+Fishers 8
+Flora 1
+Floyds Knobs 1
+Fort Wayne 12
+Fountaintown 1
+Frankfort 1
+Franklin 5
+Fremont 4
+Garrett 1
+Gary 47
+Gaston 3
+Georgetown 2
+Grandview 1
+Granger 1
+Greencastle 3
+Greenfield 11
+Greensburg 1
+Greenwood 10
+Griffin 1
+Guilford 1
+Hagerstown 1
+Hamlet 1
+Hammond 34
+Hanover 1
+Harlan 2
+Haubstadt 2
+Hebron 6
+Henryville 2
+Hobart 4
+Holton 1
+Howe 1
+Huntingburg 1
+Indianapolis 688
+Jamestown 1
+Jasper 1
+Jeffersonville 2
+Kempton 1
+Knightstown 3
+Kokomo 6
+La Porte 5
+Lafayette 4
+Lake Station 18
+Lebanon 19
+Lexington 1
+Lynnville 1
+Marion 3
+Markle 1
+Martinsville 1
+Memphis 6
+Merrillville 15
+Michigan City 1
+Middlebury 1
+Milford 1
+Mitchell 1
+Mooresville 4
+Mount Vernon 1
+Muncie 1
+Munster 1
+Nappanee 4
+Nashville 1
+New Albany 19
+New Carlisle 1
+New Castle 4
+New Haven 6
+Noblesville 5
+North Manchester 1
+North Vernon 2
+Odon 1
+Osgood 1
+Paoli 1
+Pendleton 10
+Pittsboro 2
+Plainfield 8
+Portage 1
+Redkey 1
+Reelsville 1
+Remington 2
+Rensselaer 2
+Reynolds 1
+Richland 1
+Richmond 29
+Rising Sun 1
+Roanoke 2
+Rockport 1
+Rockville 1
+Rolling Prairie 1
+Scottsburg 1
+Sellersburg 5
+Seymour 6
+Shelbyville 4
+Shipshewana 1
+South Bend 5
+Spiceland 3
+Straughn 1
+Sullivan 2
+Sulphur 1
+Sunman 1
+Terre Haute 6
+Thorntown 7
+Troy 1
+Union City 1
+Valparaiso 1
+Versailles 1
+Wanatah 1
+Warren 1
+Washington 1
+West Harrison 4
+West Terre Haute 1
+Westport 1
+Westville 2
+Whiteland 2
+Whitestown 2
+Winchester 2
+Zionsville 21
+IN 1303
+KY
+Ashland 2
+Bellevue 1
+Bowling Green 2
+Buckner 1
+Campbellsburg 1
+Carrollton 1
+Catlettsburg 1
+Central Jefferson 1
+Clay City 1
+Corinth 1
+Covington 52
+Crescent Springs 3
+Crestview Hills 2
+Crestwood 6
+Crittenden 1
+Danville 1
+Edgewood 5
+Elizabethtown 2
+Elsmere 1
+Erlanger 31
+Fairdale 5
+Fisherville 2
+Florence 17
+Fort Thomas 1
+Frankfort 1
+Frenchburg 1
+Ft Mitchell 27
+Glasgow 1
+Glendale 1
+Greenup 1
+Harrodsburg 1
+Hebron 2
+Horse Cave 1
+Independence 8
+Jackson 1
+Lakeside Park 1
+Latonia 12
+Lewisburg 1
+Lexington 92
+Louisville 416
+Midway 1
+Morning View 1
+Mount Vernon 1
+Munfordville 1
+Newport 14
+Park City 1
+Petersburg 2
+Prospect 1
+Richmond 2
+Shepherdsville 2
+Simpsonville 1
+Somerset 1
+Sonora 1
+South Jefferson 1
+South Portsmouth 1
+Sparta 1
+Taylor Mill 1
+Ulysses 1
+Verona 2
+Villa Hills 2
+Walton 5
+West Point 1
+KY 752
+MD
+Accident 2
+Friendsville 1
+Frostburg 1
+Swanton 2
+MD 6
+MI
+Akron 1
+Albion 2
+Allegan 3
+Allen Park 22
+Allendale 1
+Alpena 2
+Ann Arbor 37
+Au Gres 1
+Auburn Hills 13
+Bancroft 2
+Bangor 1
+Battle Creek 10
+Bay City 15
+Belleville 10
+Bellevue 1
+Belmont 3
+Benton Harbor 4
+Berrien Springs 1
+Birch Run 1
+Bloomfield Hills 5
+Boyne City 1
+Boyne Falls 1
+Bridgeport 2
+Bridgman 1
+Brighton 14
+Britton 1
+Brooklyn 2
+Bruce Twp 1
+Burton 53
+Byron Center 9
+Byron 2
+Caledonia 5
+Canton 19
+Carleton 6
+Casco 3
+Cedar Springs 1
+Cement City 1
+Center Line 8
+Charlotte 10
+Chelsea 3
+Chesterfield 1
+Clare 2
+Clarklake 1
+Clarkston 20
+Clarksville 1
+Climax 2
+Clinton Township 16
+Clio 49
+Coldwater 1
+Coloma 1
+Columbiaville 1
+Columbus 3
+Comstock Park 4
+Constantine 1
+Coopersville 4
+Davisburg 2
+Davison 57
+Dearborn 24
+Detroit 549
+DeWitt 1
+Dexter 2
+Dimondale 2
+Dowagiac 1
+Dowling 1
+Dundee 1
+Durand 1
+Eagle 2
+East Lansing 2
+East Tawas 1
+Eaton Rapids 3
+Emmett 1
+Empire 1
+Erie 2
+Farmington 31
+Fennville 3
+Fenton 33
+Flat Rock 3
+Flint 457
+Flushing 15
+Fowlerville 2
+Frankenmuth 1
+Frederic 1
+Gaines 3
+Galesburg 7
+Genesee 1
+Gobles 1
+Goodells 1
+Goodrich 8
+Grand Blanc 76
+Grand Haven 7
+Grand Ledge 7
+Grand Rapids 504
+Grandville 6
+Grass Lake 5
+Hamilton 3
+Hamtramck 12
+Harper Woods 18
+Harrison Township 19
+Hartford 5
+Hastings 3
+Hazel Park 30
+Highland Park 53
+Holland 15
+Holly 13
+Holt 1
+Homer 1
+Hope 1
+Howell 5
+Hudsonville 7
+Huntington Woods 1
+Interlochen 1
+Ithaca 1
+Jackson 29
+Jasper 1
+Jenison 3
+Jonesville 1
+Kalamazoo 10
+Kawkawlin 1
+La Salle 3
+Lansing 35
+Lapeer 2
+Lawrence 1
+Lawton 2
+Lennon 5
+Lincoln Park 11
+Linden 18
+Linwood 1
+Livonia 31
+Lowell 2
+Macomb 4
+Madison Heights 48
+Mancelona 1
+Manitou Beach 1
+Marion 1
+Marne 3
+Marshall 4
+Martin 1
+Mason 3
+Mattawan 1
+Melvindale 1
+Memphis 3
+Merrill 1
+Metamora 1
+Midland 5
+Milan 9
+Milford 10
+Millington 1
+Monroe 14
+Montrose 6
+Morrice 2
+Mount Morris 38
+Mount Pleasant 2
+Muskegon 7
+New Baltimore 9
+New Boston 2
+New Buffalo 3
+New Hudson 5
+Newport 5
+Niles 1
+Northville 11
+Novi 37
+Nunica 3
+Oak Park 7
+Okemos 4
+Olivet 1
+Otisville 10
+Parma 2
+Paw Paw 3
+Petersburg 1
+Pinconning 2
+Plainwell 3
+Plymouth 45
+Pontiac 1
+Port Huron 5
+Portage 7
+Portland 1
+Potterville 1
+Presque Isle 1
+Ravenna 2
+Redford 15
+Reese 1
+Riverview 1
+Rives Junction 1
+Rockford 5
+Rockwood 1
+Romeo 1
+Romulus 37
+Roscommon 1
+Roseville 32
+Royal Oak 48
+Saginaw 10
+Saint Clair 1
+Saint Clair Shores 27
+Saint Johns 1
+Saint Joseph 1
+Sanford 2
+Sawyer 3
+Schoolcraft 1
+Scottville 1
+Shepherd 1
+Smiths Creek 2
+South Haven 6
+South Lyon 1
+South Rockwood 1
+Southfield 56
+Southgate 2
+Sparta 1
+Spring Arbor 1
+Spring Lake 5
+Sterling Heights 15
+Stevensville 3
+Sturgis 2
+Swartz Creek 29
+Taylor 28
+Temperance 1
+Tipton 1
+Traverse City 2
+Trenton 4
+Troy 20
+Union Pier 2
+Utica 1
+Warren 39
+Washington 1
+Watervliet 1
+Wayland 3
+Wayne 2
+Webberville 4
+Westland 1
+White Pigeon 1
+Whitmore Lake 8
+Williamsburg 1
+Williamston 3
+Wixom 8
+Wyoming 15
+Yale 1
+Ypsilanti 17
+Zeeland 3
+MI 3376
+NC
+Asheville 7
+Cherokee 1
+Clyde 9
+Lenoir 1
+Lowgap 1
+Maggie Valley 3
+Marion 1
+Mars Hill 1
+Purlear 1
+Spruce Pine 1
+Waynesville 6
+Weaverville 6
+NC 38
+NY
+Ashville 2
+Bemus Point 1
+Dunkirk 5
+Falconer 1
+Frewsburg 1
+Irving 2
+Jamestown 1
+Portland 2
+Ripley 3
+Silver Creek 1
+Westfield 4
+NY 23
+OH
+Akron 74
+Alexandria 1
+Amanda 1
+Amherst 3
+Anna 1
+Ashland 1
+Ashley 5
+Ashville 2
+Attica 1
+Avon 1
+Barberton 3
+Batavia 2
+Bay Village 1
+Beach City 2
+Beachwood 7
+Bedford 19
+Bellaire 2
+Berkey 1
+Blanchester 1
+Blue Ash 2
+Bluffton 1
+Botkins 2
+Bowling Green 7
+Brecksville 2
+Bridgeport 1
+Brookpark 2
+Brookville 8
+Brunswick 1
+Bryan 1
+Burbank 1
+Burton 1
+Canal Winchester 7
+Canfield 2
+Canton 8
+Carroll 1
+Cecil 1
+Cedarville 1
+Celina 2
+Chagrin Falls 4
+Chardon 3
+Chesterland 5
+Chillicothe 2
+Cincinnati 339
+Clayton 3
+Cleveland 221
+Cleves 4
+Clyde 1
+Columbiana 1
+Columbus 442
+Conneaut 1
+Conover 1
+Coolville 1
+Covington 1
+Curtice 1
+Custar 1
+Cuyahoga Falls 5
+Cygnet 1
+Dayton 454
+Deerfield 1
+Defiance 1
+Delaware 30
+Delta 3
+Diamond 1
+Dover 1
+Dublin 18
+Eaton 1
+Elyria 6
+Englewood 1
+Euclid 2
+Fairborn 5
+Fairfield 4
+Farmdale 1
+Felicity 1
+Findlay 5
+Franklin 2
+Fremont 2
+Galena 4
+Galloway 1
+Genoa 1
+Georgetown 1
+Germantown 4
+Girard 3
+Glenford 2
+Goshen 1
+Grafton 1
+Granville 1
+Greenville 1
+Grove City 20
+Groveport 6
+Hamden 1
+Hamilton 7
+Hanoverton 1
+Harrison 3
+Hebron 7
+Hilliard 8
+Hillsboro 2
+Hiram 1
+Holland 3
+Howard 1
+Hubbard 1
+Hudson 2
+Huntsville 1
+Independence 16
+Johnstown 3
+Lakewood 2
+Lancaster 1
+Lebanon 3
+Leetonia 1
+Lewis Center 9
+Lewisburg 2
+Lima 2
+Lockbourne 4
+London 10
+Lore City 1
+Loveland 3
+Lynchburg 1
+Macedonia 1
+Mansfield 4
+Mantua 1
+Maple Heights 6
+Marengo 1
+Marietta 2
+Marion 3
+Marshallville 1
+Marysville 3
+Mason 2
+Maumee 6
+Mc Dermott 1
+Mechanicsburg 1
+Medina 2
+Medway 2
+Mentor 3
+Miamisburg 40
+Middlefield 2
+Middletown 8
+Milan 1
+Milford 3
+Millersport 3
+Monroe 1
+Montpelier 1
+Moraine 10
+Morrow 1
+Mount Orab 1
+Mount Sterling 3
+Navarre 1
+Nelsonville 1
+New Albany 3
+New Carlisle 3
+New Lebanon 1
+New Paris 1
+New Philadelphia 1
+Newark 4
+Newbury 1
+Newcomerstown 1
+North Baltimore 2
+North Canton 1
+North Olmsted 5
+North Ridgeville 5
+Northfield 1
+Northwood 5
+Norwalk 1
+Oakwood 2
+Oregon 1
+Oregonia 4
+Orient 3
+Painesville 3
+Pataskala 2
+Peninsula 1
+Perry 1
+Perrysburg 7
+Pickerington 4
+Piedmont 1
+Piqua 1
+Polk 1
+Powell 9
+Prospect 2
+Quaker City 1
+Radnor 2
+Ravenna 5
+Reynoldsburg 7
+Richfield 8
+Richmond 1
+Richwood 3
+Rocky River 1
+Rootstown 2
+Rossford 2
+Saint Clairsville 1
+Salem 2
+Salineville 1
+Sandusky 1
+Sarahsville 2
+Seville 1
+Shadyside 1
+Sheffield Lake 1
+Sheffield Village 1
+Sidney 1
+Solon 1
+Somerset 2
+South Charleston 3
+Spencer 1
+Springboro 2
+Springfield 9
+Stow 8
+Strongsville 4
+Sugarcreek 2
+Sunbury 9
+Swanton 4
+Tallmadge 1
+Toledo 51
+Trotwood 1
+Troy 3
+Twinsburg 3
+Uhrichsville 2
+Uniontown 4
+Utica 1
+Valley City 4
+Van Buren 1
+Van Wert 1
+Vandalia 13
+Wadsworth 2
+Wapakoneta 4
+Warren 2
+Warrensville Heights 1
+Waterville 1
+Waynesburg 1
+Waynesville 4
+West Alexandria 1
+West Chester 9
+West Farmington 3
+West Jefferson 3
+West Union 1
+West Unity 1
+Westerville 25
+Westlake 5
+Weston 1
+Wickliffe 3
+Wilkesville 1
+Williamsburg 1
+Willoughby 4
+Wilmington 2
+Winchester 1
+Windsor 1
+Worthington 1
+Xenia 2
+Yellow Springs 1
+Youngstown 5
+Zanesville 4
+OH 2353
+PA
+Acme 1
+Albion 1
+Allison Park 4
+Apollo 2
+Armagh 1
+Avella 2
+Avonmore 1
+Baden 1
+Beaver Falls 4
+Beaver 1
+Belle Vernon 5
+Bentleyville 1
+Berlin 1
+Blairsville 1
+Bolivar 2
+Boswell 1
+Bradenville 1
+Bridgeville 6
+Brookville 3
+Bulger 1
+Butler 4
+Canonsburg 4
+Carmichaels 1
+Carnegie 10
+Central City 1
+Charleroi 4
+Cherry Tree 1
+Cheswick 1
+Clairton 1
+Clarion 2
+Claysville 2
+Clinton 1
+Clymer 1
+Coal Center 1
+Connellsville 2
+Coraopolis 5
+Corsica 1
+Cranberry Township 8
+Cranberry 1
+Davidsville 1
+Delmont 1
+Donegal 2
+Dravosburg 2
+Duquesne 3
+East Millsboro 1
+East Pittsburgh 1
+Edinburg 1
+Eighty Four 1
+Elizabeth 3
+Ellwood City 3
+Emlenton 3
+Erie 11
+Export 2
+Fairview 3
+Franklin 1
+Freedom 1
+Freeport 4
+Friedens 1
+Garrett 2
+Gibsonia 6
+Girard 1
+Glen Campbell 1
+Glenshaw 1
+Greensburg 17
+Grove City 2
+Harmony 2
+Harrisville 1
+Hickory 2
+Hollsopple 1
+Imperial 1
+Indiana 2
+Irwin 6
+Jeannette 3
+Johnstown 8
+Kane 1
+Knox 2
+Lake Lynn 1
+Latrobe 5
+Laughlintown 1
+Leechburg 2
+Leetsdale 1
+Ligonier 2
+Lyndora 1
+Mars 1
+Mc Clellandtown 1
+Mc Donald 3
+Mc Kean 2
+Mc Kees Rocks 1
+Mckeesport 3
+McKeesport 1
+Mercer 4
+Meyersdale 1
+Monaca 1
+Monroeville 8
+Morgan 1
+Mount Morris 1
+Mount Pleasant 4
+Murrysville 3
+Nanty Glo 1
+Natrona Heights 1
+Neville 1
+New Alexandria 2
+New Castle 9
+New Florence 2
+New Stanton 6
+North East 1
+North Versailles 1
+Oakdale 1
+Oakmont 1
+Parker 1
+Pittsburgh 244
+Pittsfield 1
+Polk 1
+Portersville 1
+Prosperity 1
+Punxsutawney 2
+Reynoldsville 1
+Rochester Mills 1
+Rockwood 3
+Rural Valley 1
+Salisbury 1
+Saltsburg 1
+Scenery Hill 2
+Sewickley 9
+Shippenville 2
+Smithfield 1
+Smithton 1
+Smock 1
+Somerset 10
+South Fork 1
+Stahlstown 3
+Stoystown 1
+Tarentum 4
+Tarrs 1
+Tionesta 1
+Trafford 1
+Union City 2
+Uniontown 1
+Verona 3
+Wampum 2
+Warrendale 1
+Washington 11
+Waynesburg 2
+West Alexander 1
+West Finley 2
+West Middlesex 2
+West Newton 1
+Wexford 9
+White Oak 1
+Windber 1
+Youngwood 5
+Zelienople 1
+PA 611
+TN
+Adams 1
+Alcoa 1
+Antioch 41
+Ashland City 1
+Athens 2
+Baxter 1
+Bean Station 1
+Bethpage 1
+Byrdstown 1
+Caryville 2
+Cedar Hill 1
+Chuckey 1
+Clarksville 2
+Clinton 3
+Cookeville 4
+Cosby 1
+Crab Orchard 2
+Crossville 2
+Dandridge 3
+Dayton 1
+Erwin 2
+Fall Branch 6
+Flag Pond 1
+Goodlettsville 30
+Gordonsville 1
+Greenbrier 2
+Greeneville 1
+Harriman 3
+Hartford 1
+Hartsville 1
+Heiskell 1
+Hendersonville 3
+Hermitage 35
+Joelton 16
+Johnson City 60
+Jonesborough 8
+Kingsport 4
+Kingston 5
+Knoxville 98
+La Follette 1
+Lake City 1
+Lebanon 8
+Lenoir City 7
+Loudon 4
+Louisville 2
+Madison 78
+Maryville 2
+Mohawk 1
+Monterey 4
+Mosheim 1
+Mount Juliet 4
+Nashville 789
+Newcomb 2
+Newport 5
+Niota 1
+Old Hickory 12
+Orlinda 2
+Philadelphia 1
+Pigeon Forge 1
+Pikeville 1
+Pleasant View 6
+Powell 5
+Rockwood 3
+Russellville 2
+Sevierville 1
+Seymour 1
+Smyrna 1
+Speedwell 1
+Sweetwater 1
+Telford 2
+Thorn Hill 1
+White House 2
+White Pine 3
+Whites Creek 11
+Woodbury 1
+TN 1318
+VA
+Abingdon 10
+Atkins 1
+Austinville 4
+Bastian 1
+Bland 1
+Bristol 9
+Cana 1
+Castlewood 3
+Cedar Bluff 2
+Chilhowie 1
+Christiansburg 13
+Clifton Forge 3
+Clinchco 1
+Coeburn 1
+Covington 11
+Damascus 1
+Draper 3
+Dryden 1
+Dublin 6
+Duffield 2
+Eagle Rock 1
+Elliston 6
+Fairlawn 1
+Fancy Gap 9
+Fincastle 1
+Gate City 6
+Glade Spring 4
+Goshen 3
+Hillsville 14
+Marion 4
+Max Meadows 11
+Meadowview 2
+Monterey 1
+Narrows 1
+Pearisburg 1
+Pulaski 7
+Radford 2
+Raven 1
+Roanoke 8
+Rocky Gap 2
+Rural Retreat 3
+Salem 26
+Shawsville 2
+Vansant 1
+Wytheville 9
+VA 201
+WI
+Allenton 1
+Beloit 4
+Brookfield 14
+Burlington 2
+Caledonia 8
+Clinton 1
+Darien 2
+Delafield 6
+Elkhorn 3
+Fond du Lac 2
+Franksville 4
+Germantown 3
+Glenbeulah 1
+Grafton 2
+Hartford 1
+Ixonia 1
+Janesville 8
+Kenosha 5
+Kohler 2
+Manitowoc 1
+Mayville 1
+Menomonee Falls 4
+Mequon 2
+Milton 1
+Milwaukee 269
+Mukwonago 3
+Neosho 2
+New Berlin 7
+Oak Creek 13
+Oconomowoc 8
+Pewaukee 3
+Pleasant Prairie 2
+Plymouth 5
+Racine 2
+Richfield 4
+Saint Francis 1
+Salem 1
+Sheboygan Falls 1
+Sheboygan 3
+Slinger 1
+Sturtevant 9
+Sullivan 1
+Theresa 1
+Union Grove 3
+Waterford 1
+Watertown 2
+Waukesha 9
+Whitelaw 1
+Whitewater 1
+WI 432
+WV
+Barboursville 3
+Beckley 6
+Belle 1
+Bridgeport 1
+Bruceton Mills 3
+Cabin Creek 2
+Cairo 1
+Charleston 30
+Clarksburg 1
+Clendenin 5
+Cool Ridge 1
+Dunbar 5
+Elkview 3
+Fairmont 2
+Flatwoods 1
+Fraziers Bottom 1
+Grassy Meadows 2
+Huntington 5
+Hurricane 3
+Kenova 1
+Lewisburg 1
+Milton 3
+Morgantown 7
+Mount Nebo 1
+Nitro 2
+Ona 2
+Parkersburg 3
+Princeton 1
+Ravenswood 2
+Ripley 2
+Saint Albans 1
+Salem 1
+Scott Depot 3
+Shady Spring 1
+Shinnston 1
+South Charleston 11
+Spencer 1
+Spring Dale 1
+Summersville 2
+Sutton 1
+Triadelphia 1
+Weirton 1
+Weston 1
+Wheeling 5
+Williamstown 1
+WV 133

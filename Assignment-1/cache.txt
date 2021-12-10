@@ -1,0 +1,72 @@
+MA,Brewster,1
+MA,Buzzards Bay,1
+MA,Carver,1
+MA,Carver,1
+MA,Cotuit,1
+MA,Duxbury,1
+MA,Duxbury,1
+MA,Duxbury,1
+MA,Duxbury,1
+MA,Duxbury,1
+MA,Duxbury,1
+MA,Duxbury,1
+MA,Duxbury,1
+MA,Duxbury,1
+MA,Duxbury,1
+MA,Duxbury,1
+MA,Duxbury,1
+MA,Duxbury,1
+MA,East Falmouth,1
+MA,East Falmouth,1
+MA,East Freetown,1
+MA,East Sandwich,1
+MA,East Wareham,1
+MA,Eastham,1
+MA,Halifax,1
+MA,Halifax,1
+MA,Halifax,1
+MA,Halifax,1
+MA,Halifax,1
+MA,Halifax,1
+MA,Halifax,1
+MA,Hyannis,1
+MA,Hyannis,1
+MA,Hyannis,1
+MA,Hyannis,1
+MA,Kingston,1
+MA,Mashpee,1
+MA,Mashpee,1
+MA,Mashpee,1
+MA,Mashpee,1
+MA,Middleboro,1
+MA,New Bedford,1
+MA,New Bedford,1
+MA,New Bedford,1
+MA,North Dartmouth,1
+MA,North Dartmouth,1
+MA,Orleans,1
+MA,Osterville,1
+MA,Plymouth,1
+MA,Plymouth,1
+MA,Plymouth,1
+MA,Plymouth,1
+MA,Plympton,1
+MA,Plympton,1
+MA,Rochester,1
+MA,Sandwich,1
+MA,Sandwich,1
+MA,South Dennis,1
+MA,South Dennis,1
+MA,Teaticket,1
+MA,Truro,1
+MA,Truro,1
+MA,Wareham,1
+MA,Wareham,1
+MA,Wareham,1
+MA,West Barnstable,1
+MA,West Wareham,1
+ME,Ellsworth,1
+ME,Ellsworth,1
+ME,Ellsworth,1
+ME,Hope,1
+ME,Trenton,1

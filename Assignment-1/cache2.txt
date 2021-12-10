@@ -1,0 +1,270 @@
+MA,Buzzards Bay,1
+MA,Buzzards Bay,1
+MA,Buzzards Bay,1
+MA,Buzzards Bay,1
+MA,Buzzards Bay,1
+MA,Buzzards Bay,1
+MA,Buzzards Bay,1
+MA,Buzzards Bay,1
+MA,Buzzards Bay,1
+MA,Buzzards Bay,1
+MA,Buzzards Bay,1
+MA,Carver,1
+MA,Centerville,1
+MA,Cotuit,1
+MA,Duxbury,1
+MA,Duxbury,1
+MA,Duxbury,1
+MA,Duxbury,1
+MA,Duxbury,1
+MA,East Falmouth,1
+MA,East Falmouth,1
+MA,East Falmouth,1
+MA,East Falmouth,1
+MA,East Sandwich,1
+MA,East Sandwich,1
+MA,East Sandwich,1
+MA,East Sandwich,1
+MA,East Sandwich,1
+MA,East Sandwich,1
+MA,East Sandwich,1
+MA,East Sandwich,1
+MA,East Sandwich,1
+MA,East Wareham,1
+MA,East Wareham,1
+MA,East Wareham,1
+MA,East Wareham,1
+MA,East Wareham,1
+MA,Eastham,1
+MA,Fairhaven,1
+MA,Fairhaven,1
+MA,Fairhaven,1
+MA,Fairhaven,1
+MA,Fairhaven,1
+MA,Fairhaven,1
+MA,Fairhaven,1
+MA,Fairhaven,1
+MA,Fairhaven,1
+MA,Fairhaven,1
+MA,Falmouth,1
+MA,Hanover,1
+MA,Hanover,1
+MA,Hanover,1
+MA,Hanover,1
+MA,Harwich Port,1
+MA,Harwich,1
+MA,Harwich,1
+MA,Harwich,1
+MA,Harwich,1
+MA,Kingston,1
+MA,Kingston,1
+MA,Kingston,1
+MA,Kingston,1
+MA,Kingston,1
+MA,Kingston,1
+MA,Kingston,1
+MA,Kingston,1
+MA,Kingston,1
+MA,Kingston,1
+MA,Kingston,1
+MA,Marion,1
+MA,Marshfield,1
+MA,Mattapoisett,1
+MA,Middleboro,1
+MA,Middleboro,1
+MA,Middleboro,1
+MA,Middleboro,1
+MA,Middleboro,1
+MA,Middleboro,1
+MA,Middleboro,1
+MA,Middleboro,1
+MA,Middleboro,1
+MA,Middleboro,1
+MA,Middleboro,1
+MA,Middleboro,1
+MA,Middleboro,1
+MA,Middleboro,1
+MA,Middleboro,1
+MA,Middleboro,1
+MA,Middleboro,1
+MA,Middleboro,1
+MA,Middleboro,1
+MA,Middleboro,1
+MA,Middleboro,1
+MA,New Bedford,1
+MA,New Bedford,1
+MA,New Bedford,1
+MA,New Bedford,1
+MA,New Bedford,1
+MA,New Bedford,1
+MA,New Bedford,1
+MA,New Bedford,1
+MA,New Bedford,1
+MA,New Bedford,1
+MA,New Bedford,1
+MA,New Bedford,1
+MA,New Bedford,1
+MA,New Bedford,1
+MA,New Bedford,1
+MA,New Bedford,1
+MA,New Bedford,1
+MA,New Bedford,1
+MA,New Bedford,1
+MA,New Bedford,1
+MA,New Bedford,1
+MA,New Bedford,1
+MA,New Bedford,1
+MA,New Bedford,1
+MA,New Bedford,1
+MA,New Bedford,1
+MA,North Dartmouth,1
+MA,North Dartmouth,1
+MA,Norwell,1
+MA,Orleans,1
+MA,Orleans,1
+MA,Orleans,1
+MA,Orleans,1
+MA,Pembroke,1
+MA,Pembroke,1
+MA,Pembroke,1
+MA,Pembroke,1
+MA,Pembroke,1
+MA,Pembroke,1
+MA,Pembroke,1
+MA,Pembroke,1
+MA,Pembroke,1
+MA,Pembroke,1
+MA,Pembroke,1
+MA,Pembroke,1
+MA,Pembroke,1
+MA,Plymouth,1
+MA,Plymouth,1
+MA,Plymouth,1
+MA,Plymouth,1
+MA,Plymouth,1
+MA,Plymouth,1
+MA,Plymouth,1
+MA,Plymouth,1
+MA,Plymouth,1
+MA,Plymouth,1
+MA,Plymouth,1
+MA,Plymouth,1
+MA,Plymouth,1
+MA,Plymouth,1
+MA,Plymouth,1
+MA,Plymouth,1
+MA,Plymouth,1
+MA,Plymouth,1
+MA,Plymouth,1
+MA,Plymouth,1
+MA,Plymouth,1
+MA,Plymouth,1
+MA,Plymouth,1
+MA,Plymouth,1
+MA,Plymouth,1
+MA,Plymouth,1
+MA,Sagamore Beach,1
+MA,Sagamore Beach,1
+MA,Sandwich,1
+MA,Sandwich,1
+MA,Sandwich,1
+MA,Sandwich,1
+MA,Sandwich,1
+MA,Sandwich,1
+MA,Sandwich,1
+MA,Sandwich,1
+MA,South Dennis,1
+MA,South Dennis,1
+MA,South Dennis,1
+MA,South Yarmouth,1
+MA,South Yarmouth,1
+MA,South Yarmouth,1
+MA,South Yarmouth,1
+MA,South Yarmouth,1
+MA,South Yarmouth,1
+MA,Truro,1
+MA,Truro,1
+MA,Truro,1
+MA,Truro,1
+MA,Truro,1
+MA,Truro,1
+MA,Truro,1
+MA,Truro,1
+MA,Wareham,1
+MA,Wareham,1
+MA,Wareham,1
+MA,Wareham,1
+MA,Wareham,1
+MA,Wareham,1
+MA,Wareham,1
+MA,Wareham,1
+MA,Wareham,1
+MA,Wareham,1
+MA,Wareham,1
+MA,Wareham,1
+MA,Wareham,1
+MA,Wareham,1
+MA,Wareham,1
+MA,Wareham,1
+MA,Wareham,1
+MA,Wareham,1
+MA,Wareham,1
+MA,Wellfleet,1
+MA,Wellfleet,1
+MA,Wellfleet,1
+MA,Wellfleet,1
+MA,West Barnstable,1
+MA,West Wareham,1
+MA,West Wareham,1
+MA,West Wareham,1
+MA,West Wareham,1
+MA,West Yarmouth,1
+MA,West Yarmouth,1
+MA,West Yarmouth,1
+MA,West Yarmouth,1
+MA,West Yarmouth,1
+ME,Bar Harbor,1
+ME,Bar Harbor,1
+ME,Camden,1
+ME,Camden,1
+ME,Columbia Falls,1
+ME,East Hancock,1
+ME,Ellsworth,1
+ME,Ellsworth,1
+ME,Ellsworth,1
+ME,Ellsworth,1
+ME,Ellsworth,1
+ME,Ellsworth,1
+ME,Ellsworth,1
+ME,Ellsworth,1
+ME,Ellsworth,1
+ME,Ellsworth,1
+ME,Hancock,1
+ME,Hope,1
+ME,Jonesboro,1
+ME,Jonesboro,1
+ME,Jonesboro,1
+ME,Jonesboro,1
+ME,Orland,1
+ME,Robbinston,1
+ME,Rockport,1
+ME,Rockport,1
+ME,Rockport,1
+ME,Sedgwick,1
+ME,Sedgwick,1
+ME,Sedgwick,1
+ME,Thomaston,1
+ME,Thomaston,1
+ME,Trenton,1
+ME,Trenton,1
+ME,Trenton,1
+ME,Trenton,1
+ME,Trenton,1
+ME,Trenton,1
+ME,Trenton,1
+ME,Trenton,1
+ME,Trenton,1
+ME,Warren,1
+ME,Warren,1
+ME,Warren,1
+ME,Warren,1
